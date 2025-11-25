@@ -128,7 +128,20 @@ The chart shows churn rates across three risk categories: High, Medium, and Low.
 
 ### Limitations
 
-This churn analysis is constrained by a few key data limitations. First, the churn definition is not precise statuses such as expired, suspended, or cancelled may represent normal contract expiry rather than true customer attrition. Second, several important behavioral variables (e.g., customer tenure, payment history, claim history, and renewal activity) are not available, reducing the ability to identify drivers of churn. Third, the dataset has a narrow age distribution, which limits the strength of insights across customer segments. Finally, only annual premium values are provided, preventing analysis of monthly payment behavior or missed-payment patterns that often contribute to churn. 
+- One‑year dataset only 
+Because the data covers just a single year, you can only see short‑term churn patterns. 
+You cannot measure long‑term loyalty (e.g., whether customers stay for 3–5 years) or how churn changes over time. 
+This makes your findings useful for immediate insights, but limited for predicting future trends. 
+
+- Annual premium payments 
+Clients pay premiums once per year, so there are no monthly payment records. 
+Without monthly data, you can’t detect seasonal churn (like customers leaving after a few months) or short‑term payment struggles. 
+This flattens the churn patterns, making them look more uniform across groups. 
+
+- Missing behavioral data 
+The dataset did not include customer behavior details such as claims history, complaints, or service interactions. 
+These are often strong predictors of churn, because unhappy or high‑claim customers are more likely to leave. 
+
 
 
 ### Conclusions And Recommendations
