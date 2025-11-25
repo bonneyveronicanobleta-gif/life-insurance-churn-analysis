@@ -5,9 +5,20 @@
 
 - [Project Overview](#Project-Overview)
 - [Business Context](#Business-Context)
-- [Business Objectives](Business-Objectives)
-- [Data sources]( Data-sources)
-- [Tools/Packages Used](Tools/Packages-Used)
+- [Business Objectives](#Business-Objectives)
+- [Data sources](#Data-sources)
+- [Tools/Packages Used](#Tools/Packages-Used)
+- [Key drivers](#Key-drivers)
+- [Explanatory Data Analysis](#Explanatory-Data-Analysis)
+- [Findings & Interpretation](#Findings-&-Interpretation)
+- [Limitations](#Limitations)
+- [Conclusions And Recommendations](#Conclusions-And-Recommendations)
+- [Rscripts and Procedures](#Rscripts-and-Procedures)
+
+
+
+
+
 
   
 
