@@ -13,7 +13,6 @@
 - [Findings & Interpretation](#Findings-&-Interpretation)
 - [Limitations](#Limitations)
 - [Conclusions And Recommendations](#Conclusions-And-Recommendations)
-- [Rscripts and Procedures](#Rscripts-and-Procedures)
 
 
 
