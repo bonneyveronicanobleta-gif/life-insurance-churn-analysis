@@ -149,7 +149,6 @@ Many customers are leaving their policies, with churn rates around 57–61% acro
 
 To reduce churn, insurers should improve retention in Agency and Broker channels, target high‑churn cities, and investigate Medium risk customers more closely. Future studies should use longer data periods and customer behavior details to understand churn better. Since churn is high everywhere, broad programs like loyalty rewards, renewal reminders, and better service are needed to keep more customers.
 
-### Rscripts and Procedures
 
 
 
